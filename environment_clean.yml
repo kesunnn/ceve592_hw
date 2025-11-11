@@ -1,5 +1,6 @@
 name: ceve592
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.11
@@ -11,4 +12,6 @@ dependencies:
   - nb_conda
   - matplotlib
   - pandas
-prefix: /Users/kesun/anaconda3/envs/ceve592
+  - seaborn
+  - scipy
+  - networkx
