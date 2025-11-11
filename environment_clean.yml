@@ -1,0 +1,14 @@
+name: ceve592
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pydot
+  - lxml
+  - pygraphviz
+  - notebook[version='<7.0.0']
+  - jupyter
+  - nb_conda
+  - matplotlib
+  - pandas
+prefix: /Users/kesun/anaconda3/envs/ceve592
